@@ -2,8 +2,6 @@
 
 A modern, interactive quiz application built with React and TypeScript that tests users' knowledge of computer science and technology concepts.
 
-![Quiz App Screenshot](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1200)
-
 ## 🚀 Features
 
 - 15 carefully curated questions on computer science and technology
