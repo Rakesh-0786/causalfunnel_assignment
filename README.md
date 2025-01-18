@@ -24,6 +24,9 @@ A modern, interactive quiz application built with React and TypeScript that test
 ## 🏃‍♂️ Running Locally
 
 1. Clone the repository
+    ```bash
+   git clone https://github.com/vengadesh-max/Quiz-app.git
+   ```
 2. Install dependencies:
    ```bash
    npm install
