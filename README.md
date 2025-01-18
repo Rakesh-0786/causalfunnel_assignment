@@ -81,6 +81,8 @@ The application is fully responsive and works seamlessly on:
 
 ## 🌐 Live Demo
 
+Video explanation : [video](https://youtu.be/FBj7ekcgIA4)
+
 Try the quiz at: [Tech Quiz App](https://calm-lamington-b03fa8.netlify.app)
 
 ## 📄 License
